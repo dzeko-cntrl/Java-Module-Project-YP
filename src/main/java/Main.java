@@ -18,9 +18,6 @@ public class Main {
                         System.out.println("Скорость авто введена неправильно.Повторите ещё раз");
                         scanner.nextInt();
                     }
-                } else {
-                    System.out.println("Скорость авто введена неправильно.Повторите ещё раз");
-                    scanner.nextInt();
                 }
             }
 
